@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nowshin Ara</h1>
+<h3 align="center">Passionate Java Developer from Bangladesh 🇧🇩</h3>
 
-<!--
-**nowshinara690/nowshinara690** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="coding" width="350" 
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Here are some ideas to get you started:
+- 🌱 Currently learning **Java & Software Development**
+- 💻 Working on **Online Exam System Project**
+- 🎯 Goal: Become a Professional Software Developer
+- ⚡ Fun fact: I love coding and designing projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Languages & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nowshinara690&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nowshinara690&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/nowshinara690">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+---
+
+## ✨ Featured Project
+
+### 🖥 Online Exam System
+A Java-based software project for online examinations with:
+- Admin Panel
+- Student Login
+- MCQ Exam System
+- Result Management
+
+---
+
+<p align="center">
+✨ Thanks for visiting my profile ✨
+</p>
